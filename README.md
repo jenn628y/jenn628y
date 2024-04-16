@@ -2,8 +2,6 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Exploiting Web Application Vulnerabilites (SQL injection, Brute force, and XSS)</b>
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Hacking IoT Devices (Nmap, Kali, Wireshark, and Python API)</b>
   - [Hacking Smart Bulbs](https://github.com/jenn628y/HackingSmartBulbs)
 <h2> Certifications:</h2>

@@ -6,7 +6,7 @@
   - [Hacking Smart Bulbs](https://github.com/jenn628y/HackingSmartBulbs)
 <h2> Certifications:</h2>
 
-- [University of Texas Cybersecurity Bootcamp](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [University of Texas Cybersecurity Bootcamp](https://www.youtube.c/om/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
